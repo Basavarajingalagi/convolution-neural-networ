@@ -1,2 +1,2 @@
-# convolution-neural-networ
+# convolution-neural-network
 image classification using cnn
